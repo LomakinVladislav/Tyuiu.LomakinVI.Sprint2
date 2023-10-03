@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.LomakinVI.Sprint2.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.LomakinVI.Sprint2.Task0.V13.Test", "Tyuiu.LomakinVI.Sprint2.Task0.V13.Test\Tyuiu.LomakinVI.Sprint2.Task0.V13.Test.csproj", "{A726E4E9-DB4A-4337-9F89-F9CA34E27250}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{01E8F1D0-DF71-456B-A09B-B84589D952A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4A4A37C1-7B1B-4EE2-B14E-3B78B19AD425} = {01E8F1D0-DF71-456B-A09B-B84589D952A0}
+		{8273A846-A649-4D70-BE17-6E0A274AE1D5} = {01E8F1D0-DF71-456B-A09B-B84589D952A0}
+		{A726E4E9-DB4A-4337-9F89-F9CA34E27250} = {01E8F1D0-DF71-456B-A09B-B84589D952A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C61B759E-3472-49ED-9C6B-BD2C3F0F3EE1}
